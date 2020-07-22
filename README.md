@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Visit Counter : 
-![Visitor Count](https://profile-counter.glitch.me/kkkkan/count.svg)
+Visit Counter : </Br>
+![Visitor Count](https://profile-counter.glitch.me/kkkkan/count.svg) </Br>
+
+(thanks　https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
+  
